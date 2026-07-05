@@ -1,0 +1,2 @@
+# 8070a75df58ce9c4-church-ministry-employee-train
+church ministry professionals waste hours on spending hours building a system before you can actually use it. This fixes that.  Fully documented: every section explained so you know exactly what to customize. Mobile-optimized for Notion iOS and Android — works everywhere you work.  ## What's Included  - Church Ministry Employee Training Portal — fu
